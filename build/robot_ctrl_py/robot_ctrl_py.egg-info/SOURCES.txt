@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/robot_ctrl_py
+robot_ctrl_py/__init__.py
+robot_ctrl_py/simple_parameter.py
+robot_ctrl_py.egg-info/PKG-INFO
+robot_ctrl_py.egg-info/SOURCES.txt
+robot_ctrl_py.egg-info/dependency_links.txt
+robot_ctrl_py.egg-info/entry_points.txt
+robot_ctrl_py.egg-info/requires.txt
+robot_ctrl_py.egg-info/top_level.txt
+robot_ctrl_py.egg-info/zip-safe

@@ -1,0 +1,23 @@
+[0.632s] Invoking command in '/home/ubantuu/robot_arm_ws/build/robot_ctrl_py': PYTHONPATH=/home/ubantuu/robot_arm_ws/build/robot_ctrl_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/build --no-deps symlink_data
+[0.826s] running develop
+[0.943s] running egg_info
+[0.943s] creating robot_ctrl_py.egg-info
+[0.943s] writing robot_ctrl_py.egg-info/PKG-INFO
+[0.943s] writing dependency_links to robot_ctrl_py.egg-info/dependency_links.txt
+[0.943s] writing entry points to robot_ctrl_py.egg-info/entry_points.txt
+[0.943s] writing requirements to robot_ctrl_py.egg-info/requires.txt
+[0.944s] writing top-level names to robot_ctrl_py.egg-info/top_level.txt
+[0.944s] writing manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+[0.945s] reading manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+[0.945s] writing manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+[0.946s] running build_ext
+[0.946s] Creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/python3.10/site-packages/robot-ctrl-py.egg-link (link to .)
+[0.946s] 
+[0.947s] Installed /home/ubantuu/robot_arm_ws/build/robot_ctrl_py
+[0.947s] running symlink_data
+[0.947s] creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index
+[0.947s] creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index/resource_index
+[0.947s] creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index/resource_index/packages
+[0.947s] symbolically linking /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/resource/robot_ctrl_py -> /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index/resource_index/packages
+[0.947s] symbolically linking /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/package.xml -> /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/robot_ctrl_py
+[0.965s] Invoked command in '/home/ubantuu/robot_arm_ws/build/robot_ctrl_py' returned '0': PYTHONPATH=/home/ubantuu/robot_arm_ws/build/robot_ctrl_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/build --no-deps symlink_data

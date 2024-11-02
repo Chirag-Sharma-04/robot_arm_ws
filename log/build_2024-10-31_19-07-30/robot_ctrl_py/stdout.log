@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating robot_ctrl_py.egg-info
+writing robot_ctrl_py.egg-info/PKG-INFO
+writing dependency_links to robot_ctrl_py.egg-info/dependency_links.txt
+writing entry points to robot_ctrl_py.egg-info/entry_points.txt
+writing requirements to robot_ctrl_py.egg-info/requires.txt
+writing top-level names to robot_ctrl_py.egg-info/top_level.txt
+writing manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+reading manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+writing manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/python3.10/site-packages/robot-ctrl-py.egg-link (link to .)
+
+Installed /home/ubantuu/robot_arm_ws/build/robot_ctrl_py
+running symlink_data
+creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index
+creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index/resource_index
+creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index/resource_index/packages
+symbolically linking /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/resource/robot_ctrl_py -> /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/ament_index/resource_index/packages
+symbolically linking /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/package.xml -> /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/share/robot_ctrl_py
