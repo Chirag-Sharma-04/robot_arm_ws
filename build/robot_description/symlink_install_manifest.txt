@@ -5,6 +5,7 @@
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/horizontal_arm.STL
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/left_finger.STL
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/link.STL
+/home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/pi_camera.STL
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/plate.STL
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/right_finger.STL
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/round_plate.STL

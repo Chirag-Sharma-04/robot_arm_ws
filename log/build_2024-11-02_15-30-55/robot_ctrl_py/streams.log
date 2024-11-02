@@ -1,0 +1,17 @@
+[0.541s] Invoking command in '/home/ubantuu/robot_arm_ws/build/robot_ctrl_py': PYTHONPATH=/home/ubantuu/robot_arm_ws/build/robot_ctrl_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/build --no-deps symlink_data
+[0.724s] running develop
+[0.838s] running egg_info
+[0.839s] writing robot_ctrl_py.egg-info/PKG-INFO
+[0.839s] writing dependency_links to robot_ctrl_py.egg-info/dependency_links.txt
+[0.839s] writing entry points to robot_ctrl_py.egg-info/entry_points.txt
+[0.839s] writing requirements to robot_ctrl_py.egg-info/requires.txt
+[0.839s] writing top-level names to robot_ctrl_py.egg-info/top_level.txt
+[0.840s] reading manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+[0.841s] writing manifest file 'robot_ctrl_py.egg-info/SOURCES.txt'
+[0.841s] running build_ext
+[0.842s] Creating /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/python3.10/site-packages/robot-ctrl-py.egg-link (link to .)
+[0.842s] Installing simple_parameter script to /home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/robot_ctrl_py
+[0.842s] 
+[0.842s] Installed /home/ubantuu/robot_arm_ws/build/robot_ctrl_py
+[0.842s] running symlink_data
+[0.861s] Invoked command in '/home/ubantuu/robot_arm_ws/build/robot_ctrl_py' returned '0': PYTHONPATH=/home/ubantuu/robot_arm_ws/build/robot_ctrl_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubantuu/robot_arm_ws/install/robot_ctrl_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubantuu/robot_arm_ws/build/robot_ctrl_py/build --no-deps symlink_data
