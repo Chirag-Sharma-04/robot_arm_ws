@@ -14,6 +14,7 @@
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/meshes/vertical_drive_arm.STL
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/urdf/robot.urdf.xacro
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/launch/display.launch.py
+/home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/launch/gazebo.launch.py
 /home/ubantuu/robot_arm_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
 /home/ubantuu/robot_arm_ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
 /home/ubantuu/robot_arm_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
